@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+   
+    position: absolute;
+    top: -80px;
+    left:150px;
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.log{
+    width: 450px;
+    height: 500px;
+    background: #010b30;
+    color: #fff;
+    top: 55%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.log p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.log input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.log input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.log input[type="submit"]
+{
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.register input[type="submit"]
+{
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.log input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #08426b;
+    color: white;
+}
+.log a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.log a:hover
+{
+    color: #08426b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
